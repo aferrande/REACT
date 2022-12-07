@@ -1,2 +1,2 @@
-Aqui postarei em maioria os projetos feitos durante o curso React - The Complete Guide (incl Hooks, React Router, Redux) da udemy.
-Para vê-los basta selecionar uma branch.
+Here I'll post mostly the projects from the "React - The Complete Guide (incl Hooks, React Router, Redux)" course @ udemy.
+Select a branch to see them.
